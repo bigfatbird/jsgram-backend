@@ -1,1 +1,1 @@
-# Backend for a JS Youtube clone written in Express/Node.js
+# Backend for a JS Insta clone written in Express/Node.js
